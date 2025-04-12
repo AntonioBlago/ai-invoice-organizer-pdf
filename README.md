@@ -1,7 +1,3 @@
-Of course! Here's a polished **English GitHub repository description** for your script:
-
----
-
 ## 🧾 AI-Assisted PDF Invoice Sorter
 
 This Python script automatically organizes PDF invoices from a specified folder into subfolders based on their **issue month and year**.  
